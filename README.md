@@ -4,7 +4,7 @@
 Uma xícara de café quentinho sobre uma mesa de madeira, com vapor subindo suavemente e luz da manhã entrando pela janela.
 
 ## 🤖 Tecnologias Utilizadas
-Utilizei ChatGPT e Google Gemini.
+ChatGPT e Google Gemini.
 
 ## 🧐 Processo de Criação
 Utilizei o ChatGPT para criar um prompt próprio para IA GENERATIVA e utilizei o Google Gemini para criar a imagem.
