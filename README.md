@@ -17,35 +17,16 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
     3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
 1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
 
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Café sobre a Mesa ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Uma xícara de café quentinho sobre uma mesa de madeira, com vapor subindo suavemente e luz da manhã entrando pela janela.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Utilizei ChatGPT e Google Gemini.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizei o ChatGPT para criar um prompt próprio para IA GENERATIVA e utilizei o Google Gemini para criar a imagem.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/23c56085-7ba4-4e2e-83b6-b5e00a04a7f3" />
